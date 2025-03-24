@@ -1,2 +1,10 @@
 # CardiacLineage
-Code to reproduce the analysis and figures for the paper "The mammalian primitive heart tube assembles from 1 independent but coordinated multipotent lineages 2 specified at the primitive streak"
+This repository contains the code and analysis for the paper: **"Myocardium and endocardium of the early mammalian heart tube arise from independent multipotent lineages specified at the primitive streak."** Sendra et al. (Developmental Cell, 2025).
+
+## Installation
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/your-username/CardiacLineage.git
+cd CardiacLineage
+pip install -r requirements.txt
+
